@@ -1,13 +1,11 @@
-<!-- Animated Banner with typing SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=initializing+profile...;loading+frontend+engineer...;> +Hello%2C+I'm+Nanthana-Binary+%E2%9C%A6;> +Frontend+Engineer+%F0%9F%87%B9%F0%9F%87%AD;> +Crafting+interfaces+that+feel+alive.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=initializing+profile...;loading+frontend+engineer...;>+Hello%2C+I'm+Nanthana-Binary+%E2%9C%A6;>+Frontend+Engineer+%F0%9F%87%B9%F0%9F%87%AD;>+Crafting+interfaces+that+feel+alive." alt="Typing SVG" />
 
 </div>
 
 ---
 
-<!-- Animated wave header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=120&section=header&text=Nanthana-Binary&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 <div align="center">
@@ -43,10 +41,9 @@ const engineer = {
 
 ## `$ ls tech-stack/`
 
-<!-- Animated skill icons -->
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,tailwind,vite,git,figma&theme=dark&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,tailwind,vite,git,figma&theme=dark&perline=6" alt="skills" />
 
 </div>
 
@@ -65,7 +62,7 @@ const engineer = {
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=nanthana-svg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e)
+<img src="https://streak-stats.demolab.com?user=nanthana-svg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="streak" />
 
 </div>
 
@@ -75,13 +72,12 @@ const engineer = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nanthana-svg&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/nanthana-svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanthana-svg&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="activity graph" />
 
 </div>
 
 ---
 
-<!-- Animated snake contribution graph -->
 ## `$ snake eat --contributions`
 
 <div align="center">
@@ -89,19 +85,20 @@ const engineer = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanthana-svg/nanthana-svg/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanthana-svg/nanthana-svg/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nanthana-svg/nanthana-svg/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/nanthana-svg/nanthana-svg/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-<!-- Animated footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2332,100:0d1117&height=100&section=footer&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=thanks+for+stopping+by.+%E2%9C%A6;keep+building+cool+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=thanks+for+stopping+by.+%E2%9C%A6;keep+building+cool+things+%F0%9F%9A%80" alt="footer typing" />
+
+<br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=nanthana-svg&style=flat-square&color=58a6ff&label=visitors)
 

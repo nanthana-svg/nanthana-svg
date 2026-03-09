@@ -53,8 +53,15 @@ const engineer = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nanthana-svg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanthana-svg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanthana-svg&theme=github_dark" alt="github stats" />
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nanthana-svg&theme=github_dark" alt="repos per language" />
+&nbsp;
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nanthana-svg&theme=github_dark" alt="most commit language" />
 
 </div>
 
@@ -62,7 +69,7 @@ const engineer = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nanthana-svg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nanthana-svg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="streak stats" />
 
 </div>
 
@@ -72,13 +79,15 @@ const engineer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanthana-svg&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanthana-svg&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" alt="activity graph" />
 
 </div>
 
 ---
 
 ## `$ snake eat --contributions`
+
+> ⚙️ *Run the **Generate Snake Animation** workflow in Actions tab first to enable this section*
 
 <div align="center">
 

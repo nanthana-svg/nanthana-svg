@@ -53,23 +53,21 @@ const engineer = {
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanthana-svg&theme=github_dark" alt="github stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanthana-svg&theme=github_dark" alt="github stats" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nanthana-svg&theme=github_dark" alt="repos per language" />
-&nbsp;
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nanthana-svg&theme=github_dark" alt="most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nanthana-svg&theme=github_dark" alt="repos per language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nanthana-svg&theme=github_dark" alt="most commit language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nanthana-svg&theme=github_dark" alt="stats" width="32%" />
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nanthana-svg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="streak stats" />
+<img src="https://streak-stats.demolab.com?user=nanthana-svg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="streak stats" width="60%" />
 
 </div>
 
